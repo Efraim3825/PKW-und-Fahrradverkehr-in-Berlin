@@ -1,2 +1,2 @@
-Ich liebe es, mit dem Fahrrad als umweltfreundliches Verkehrsmittel durch die Stadt zu fahren, aber die Wetterbedingungen müssen mitspielen. Daher stellt sich die Frage, wie viel Einfluss haben Wetter oder Zeitfaktoren auf die Wahl des Verkehrsmittels? 
+Ich liebe es, mit dem Fahrrad als umweltfreundliches Verkehrsmittel durch die Stadt zu fahren, aber die Wetterbedingungen müssen mitspielen. Daher stellt sich die Frage, wie viel Einfluss verschiedene Wetter- oder Zeitfaktoren auf die Wahl des Verkehrsmittels haben. 
 Zusammen mit meiner Projektpartnerin Imen Barrak haben wir uns die Zeitreihendaten für Fahrräder und Autos in Berlin angesehen und getestet, wie erfolgreich verschiedene Machine Learning- Algorithmen die Anzahl der Fahrrad-/Autofahrer vorhersagen können.
