@@ -6,7 +6,7 @@ Zusammen mit meiner Projektpartnerin haben wir uns die Ergebnisse mehrerer Zähl
 Wie groß ist der Einfluss von Zeit- und Wetterdaten auf die Wahl von Autos und Fahrrädern als Verkehrsmittel? Wie gut kann man ein Machine Learning- Modell trainieren, um die Anzahl der Fahrrad/Autofahrer vorherzusagen?
 
 ### Vorgehen  
-Visualisierung der Anzahl an Fahrern für verschiedene Zeitpunkte. Trainieren von verscheidenen ML_ Algorithmen um besonders erfolgreiche Algorithmen zu ermitteln.
+Visualisierung der Anzahl an Fahrern für verschiedene Zeitpunkte. Trainieren von verschiedenen ML_ Algorithmen um besonders erfolgreiche Algorithmen zu ermitteln.
 
 ### Erkenntnisse  
 - Fahrradnutzung ist zeitabhängiger als Autonutzung, auch tagsüber.
@@ -18,3 +18,7 @@ Visualisierung der Anzahl an Fahrern für verschiedene Zeitpunkte. Trainieren vo
 ![grafik](https://github.com/user-attachments/assets/d7bc11e2-f72d-4ed8-9d0c-70702b197606)
 
 ![grafik](https://github.com/user-attachments/assets/15ab1541-80f4-4eff-8777-73d266fed704)
+
+### Quellen  
+PKW: https://daten.berlin.de/datensaetze/verkehrsdetektion-berlin  
+Fahrrad: https://daten.berlin.de/datensaetze/radzahldaten-in-berlin  
